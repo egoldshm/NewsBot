@@ -1,0 +1,2 @@
+TOKEN = ""
+PYTHONANYWHERE_NAME = ""
