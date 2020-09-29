@@ -1,2 +1,0 @@
-TOKEN = ""
-PYTHONANYWHERE_NAME = ""
