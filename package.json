@@ -1,0 +1,25 @@
+{
+  "name": "newsbot",
+  "version": "1.0.0",
+  "description": "A telegram bot that sends the latest news release from the \"kan 11 radio\" website",
+  "main": "main.js",
+  "dependencies": {
+    "node-hls-downloader": "^1.2.0",
+    "telegraf": "^3.38.0",
+    "telegraf-keyboard": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egoldshm/NewsBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egoldshm/NewsBot/issues"
+  },
+  "homepage": "https://github.com/egoldshm/NewsBot#readme"
+}
